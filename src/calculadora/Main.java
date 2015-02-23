@@ -19,6 +19,7 @@ public class Main {
        Scanner introducir = new Scanner (System.in);
        double a,b;
        System.out.println("\n");
+       System.out.println("JODER");
        System.out.println("1.SUMA");
        System.out.println("2.RESTA");
        System.out.println("3.MULTIPLICACION");
