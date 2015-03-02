@@ -20,6 +20,7 @@ public class Main {
        double a,b;
        System.out.println("\n");
        System.out.println("JODER");
+       System.out.println("FUCK");
        System.out.println("1.SUMA");
        System.out.println("2.RESTA");
        System.out.println("3.MULTIPLICACION");
